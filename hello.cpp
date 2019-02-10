@@ -6,5 +6,5 @@ using namespace std;
 // main function runs as soon as the program starts
 int main() {
   // cout is used to print inside the console
-  cout << "Hello" << endl;
+  cout << "Hello World" << endl;
 }
